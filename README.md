@@ -18,8 +18,8 @@ This is a package specifically for WordPress Development in macOS environment.
 
 ## Notable file directories
 
-1. ```/src/assets/scss``` - in these resides the scss files for the theme.
-2. ```/src/assets/scss/templates``` - in thes the styling per page template. just dont forget to add the new scss file to the main app.scss
+1. ```/src/assets/scss``` - inside here resides the scss files for the theme.
+2. ```/src/assets/scss/templates``` - inside here the styling per page template. just dont forget to add the new scss file to the main app.scss
 3. Other scss files are self-explanatory.
 
 4. ```/includes/*.php``` - files like acf-fields contains the php code to pre-built the optiona page of ACF, this will be only activated if we have ACF-PRO installed. Plus other files to call up required files.
